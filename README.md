@@ -1,2 +1,2 @@
-# Java_-CourseExercise
+# Java_CourseExercise
 Java_ CourseExercise
